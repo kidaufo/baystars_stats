@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>横浜DeNAベイスターズ 貯金数推移</title>
+    <link rel="stylesheet" href="css/style.css">
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-2.29.1.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>横浜DeNAベイスターズ 貯金数推移 (2020-現在)</h1>
+            <p class="subtitle">シーズン別の貯金数（勝利数-敗戦数）の推移</p>
+        </header>
+
+        <main>
+            <div class="chart-container">
+                <div id="chart"></div>
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>データ読み込み中...</p>
+                </div>
+            </div>
+
+            <div class="controls">
+                <div class="year-toggles">
+                    <h3>表示年度</h3>
+                    <div class="toggle-buttons" id="year-toggles">
+                        <!-- 年度ボタンはJavaScriptで動的に生成 -->
+                    </div>
+                </div>
+                <div class="info-box">
+                    <h3>使い方</h3>
+                    <ul>
+                        <li>各線は年度ごとの貯金数の推移を表しています</li>
+                        <li>点にカーソルを合わせると詳細が表示されます</li>
+                        <li>凡例の年度をクリックすると表示/非表示を切り替えられます</li>
+                        <li>グラフ上でドラッグすると拡大できます</li>
+                        <li>ダブルクリックでリセットします</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="data-info">
+                <p>最終更新: <span id="last-updated">読み込み中...</span></p>
+                <p class="data-source">データ出典: <a href="https://nf3.sakura.ne.jp/php/stat_disp/stat_disp.php" target="_blank">プロ野球データFreak</a></p>
+            </div>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 横浜DeNAベイスターズ貯金数ビジュアライザー</p>
+            <p>このサイトは非公式ファンサイトであり、横浜DeNAベイスターズおよび日本プロ野球機構とは関係ありません。</p>
+        </footer>
+    </div>
+
+    <!-- データとスクリプト -->
+    <script src="js/plot_data.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

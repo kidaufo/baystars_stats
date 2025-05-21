@@ -1,0 +1,43 @@
+name: Daily Data Update
+
+on:
+  schedule:
+    # 毎日午前5時（UTC）に実行（日本時間14時）
+    - cron: '0 5 * * *'
+  workflow_dispatch:  # 手動実行も可能
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run data scraper
+        run: |
+          cd scripts
+          python scraper.py
+      
+      - name: Process data
+        run: |
+          cd scripts
+          python data_processor.py
+      
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add data/baystars_net_wins.json data/processed_data.json web/js/plot_data.js
+          git diff --quiet && git diff --staged --quiet || git commit -m "自動データ更新: $(date +%Y-%m-%d)"
+          git push

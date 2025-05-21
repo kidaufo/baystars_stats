@@ -1,0 +1,34 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 実行環境
+venv/
+ENV/
+
+# 出力ファイル（大きい場合）
+# data/baystars_net_wins.json（必要に応じてコメントアウト）
+
+# 個人環境
+.DS_Store
