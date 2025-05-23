@@ -2,8 +2,8 @@ name: Daily Data Update
 
 on:
   schedule:
-    # 毎日午前5時（UTC）に実行（日本時間14時）
-    - cron: '0 5 * * *'
+    # 毎日午後8時（UTC）に実行（日本時間翌日朝5時）
+    - cron: '0 20 * * *'
   workflow_dispatch:  # 手動実行も可能
 
 jobs:
