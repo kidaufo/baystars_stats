@@ -18,17 +18,37 @@ class BaystarsDataProcessor:
         script_dir = Path(__file__).parent.absolute()
         self.data_dir = script_dir.parent / "data"
         self.web_dir = script_dir.parent / "web"
-        self.input_file = self.data_dir / "baystars_net_wins.json"
+        self.historical_file = self.data_dir / "historical_data.json"
+        self.current_year_file = self.data_dir / "current_year_data.json"
         self.output_file = self.data_dir / "processed_data.json"
         
     def load_data(self):
-        """JSONデータを読み込む"""
-        if not self.input_file.exists():
-            print(f"エラー: {self.input_file} が見つかりません")
-            return None
+        """過去データと今年のデータを読み込み、統合する"""
+        all_data = {}
         
-        with open(self.input_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        # 過去データの読み込み
+        if self.historical_file.exists():
+            with open(self.historical_file, 'r', encoding='utf-8') as f:
+                historical_data = json.load(f)
+                all_data.update(historical_data)
+            print(f"過去データを {self.historical_file} から読み込みました")
+        else:
+            print(f"警告: 過去データファイル {self.historical_file} が見つかりません")
+        
+        # 今年のデータの読み込み
+        if self.current_year_file.exists():
+            with open(self.current_year_file, 'r', encoding='utf-8') as f:
+                current_year_data = json.load(f)
+                all_data.update(current_year_data)
+            print(f"今年のデータを {self.current_year_file} から読み込みました")
+        else:
+            print(f"警告: 今年のデータファイル {self.current_year_file} が見つかりません")
+            
+        if not all_data:
+            print("エラー: データが読み込めませんでした")
+            return None
+            
+        return all_data
     
     def process_data(self, data):
         """データを処理して可視化用に整形"""
