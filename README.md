@@ -28,17 +28,21 @@
 ```
 baseball_stats/
 ├── data/                   # データファイル
-│   ├── baystars_net_wins.json  # 元データ
+│   ├── historical_data.json    # 過去年度（2020-2024）のデータ
+│   ├── current_year_data.json  # 今年（2025年）のデータ
 │   └── processed_data.json     # 処理済みデータ
 ├── scripts/                # Pythonスクリプト
-│   ├── scraper.py          # データ収集スクリプト
+│   ├── baystars_scraper_base.py # スクレイピング基底クラス
+│   ├── scrape_historical_data.py # 過去データ収集スクリプト
+│   ├── scrape_current_year.py  # 今年のデータ収集スクリプト
+│   ├── scraper.py          # 旧データ収集スクリプト（参考用）
 │   └── data_processor.py   # データ処理スクリプト
-├── web/                    # Webアプリケーション
+├── docs/                   # GitHub Pages公開用ディレクトリ
 │   ├── css/                # スタイルシート
 │   │   └── style.css
 │   ├── js/                 # JavaScriptファイル
 │   │   ├── main.js         # メインスクリプト
-│   │   └── plot_data.js    # 可視化データ
+│   │   └── plot_data.js    # 可視化データ（自動更新）
 │   └── index.html          # メインHTML
 ├── .github/                # GitHub関連ファイル
 │   └── workflows/          # GitHub Actions
@@ -65,13 +69,17 @@ baseball_stats/
 3. データを更新（オプション）
    ```
    cd scripts
-   python scraper.py
+   # 過去データ（2020-2024）を取得（初回のみ必要）
+   python scrape_historical_data.py
+   # 今年（2025年）のデータを取得
+   python scrape_current_year.py
+   # データを処理して可視化
    python data_processor.py
    ```
 
 4. ウェブサーバーを起動
    ```
-   cd ../web
+   cd ../docs
    python -m http.server
    ```
 
@@ -81,12 +89,20 @@ baseball_stats/
 
 1. リポジトリの設定から GitHub Pages を有効化
 2. Source を `main` ブランチの `/docs` フォルダに設定
-3. `web` フォルダの内容を `docs` フォルダにコピー
 
 ## 自動更新
 
-GitHub Actionsを使用して、毎日データを自動更新するように設定されています。
-`.github/workflows/daily-update.yml` ファイルで設定を確認・変更できます。
+GitHub Actionsを使用して、毎日今年（2025年）のデータを自動更新するように設定されています。
+過去のデータ（2020-2024年）は変更されないため、初回のみ手動で取得します。
+
+自動更新の流れ：
+1. 毎日UTC 20:00（日本時間翌日朝5:00）に実行
+2. 今年のデータのみを取得（`scrape_current_year.py`）
+3. データを処理して可視化（`data_processor.py`）
+4. 変更があれば自動的にコミットしてプッシュ
+5. GitHub Pagesに反映
+
+設定は`.github/workflows/daily-update.yml`ファイルで確認・変更できます。
 
 ## データソース
 

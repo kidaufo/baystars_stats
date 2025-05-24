@@ -17,7 +17,7 @@ class BaystarsDataProcessor:
         # 現在のスクリプトからの相対パスでディレクトリを指定
         script_dir = Path(__file__).parent.absolute()
         self.data_dir = script_dir.parent / "data"
-        self.web_dir = script_dir.parent / "web"
+        self.docs_dir = script_dir.parent / "docs"  # webからdocsに変更
         self.historical_file = self.data_dir / "historical_data.json"
         self.current_year_file = self.data_dir / "current_year_data.json"
         self.output_file = self.data_dir / "processed_data.json"
@@ -176,7 +176,7 @@ class BaystarsDataProcessor:
         fig.update_yaxes(showgrid=True, gridwidth=1, gridcolor='LightGray', zeroline=True, zerolinewidth=2, zerolinecolor='Gray')
         
         # HTMLとして保存
-        html_path = self.web_dir / "js" / "plot_data.js"
+        html_path = self.docs_dir / "js" / "plot_data.js"
         
         # Plotlyのグラフをオブジェクトとして保存
         plot_json = pio.to_json(fig)
