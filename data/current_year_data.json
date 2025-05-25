@@ -558,6 +558,19 @@
       "losses": 18,
       "draws": 3,
       "net_wins": 4
+    },
+    {
+      "date": "5/25",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "●",
+      "score": "0-3",
+      "wins": 22,
+      "losses": 19,
+      "draws": 3,
+      "net_wins": 3
     }
   ]
 }
