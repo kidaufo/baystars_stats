@@ -571,6 +571,19 @@
       "losses": 19,
       "draws": 3,
       "net_wins": 3
+    },
+    {
+      "date": "5/27",
+      "opponent": "阪神",
+      "location": "倉敷",
+      "home_away": "V",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "0-1",
+      "wins": 22,
+      "losses": 20,
+      "draws": 3,
+      "net_wins": 2
     }
   ]
 }
