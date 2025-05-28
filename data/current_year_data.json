@@ -584,6 +584,19 @@
       "losses": 20,
       "draws": 3,
       "net_wins": 2
+    },
+    {
+      "date": "5/28",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "0-1",
+      "wins": 22,
+      "losses": 21,
+      "draws": 3,
+      "net_wins": 1
     }
   ]
 }
