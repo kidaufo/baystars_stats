@@ -610,6 +610,19 @@
       "losses": 21,
       "draws": 3,
       "net_wins": 2
+    },
+    {
+      "date": "5/30",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "大貫(右)",
+      "result": "○",
+      "score": "6-2",
+      "wins": 24,
+      "losses": 21,
+      "draws": 3,
+      "net_wins": 3
     }
   ]
 }
