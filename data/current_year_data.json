@@ -623,6 +623,19 @@
       "losses": 21,
       "draws": 3,
       "net_wins": 3
+    },
+    {
+      "date": "5/31",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "石田裕(右)",
+      "result": "○",
+      "score": "5-2",
+      "wins": 25,
+      "losses": 21,
+      "draws": 3,
+      "net_wins": 4
     }
   ]
 }
