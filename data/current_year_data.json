@@ -649,6 +649,19 @@
       "losses": 21,
       "draws": 3,
       "net_wins": 5
+    },
+    {
+      "date": "6/3",
+      "opponent": "楽天",
+      "location": "楽天モバイル",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "6-3",
+      "wins": 27,
+      "losses": 21,
+      "draws": 3,
+      "net_wins": 6
     }
   ]
 }
