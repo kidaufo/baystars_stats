@@ -662,6 +662,19 @@
       "losses": 21,
       "draws": 3,
       "net_wins": 6
+    },
+    {
+      "date": "6/4",
+      "opponent": "楽天",
+      "location": "楽天モバイル",
+      "home_away": "V",
+      "pitcher": "ジャクソン(右)",
+      "result": "●",
+      "score": "1-3",
+      "wins": 27,
+      "losses": 22,
+      "draws": 3,
+      "net_wins": 5
     }
   ]
 }
