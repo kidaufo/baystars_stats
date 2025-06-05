@@ -675,6 +675,19 @@
       "losses": 22,
       "draws": 3,
       "net_wins": 5
+    },
+    {
+      "date": "6/5",
+      "opponent": "楽天",
+      "location": "郡山",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "○",
+      "score": "5-0",
+      "wins": 28,
+      "losses": 22,
+      "draws": 3,
+      "net_wins": 6
     }
   ]
 }
