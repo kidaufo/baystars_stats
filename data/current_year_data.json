@@ -688,6 +688,19 @@
       "losses": 22,
       "draws": 3,
       "net_wins": 6
+    },
+    {
+      "date": "6/6",
+      "opponent": "日本ハム",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "バウアー(右)",
+      "result": "○",
+      "score": "2-1",
+      "wins": 29,
+      "losses": 22,
+      "draws": 3,
+      "net_wins": 7
     }
   ]
 }
