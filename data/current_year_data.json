@@ -714,6 +714,19 @@
       "losses": 23,
       "draws": 3,
       "net_wins": 6
+    },
+    {
+      "date": "6/8",
+      "opponent": "日本ハム",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "石田裕(右)",
+      "result": "○",
+      "score": "5-4",
+      "wins": 30,
+      "losses": 23,
+      "draws": 3,
+      "net_wins": 7
     }
   ]
 }
