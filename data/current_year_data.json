@@ -727,6 +727,19 @@
       "losses": 23,
       "draws": 3,
       "net_wins": 7
+    },
+    {
+      "date": "6/10",
+      "opponent": "オリックス",
+      "location": "京セラD大阪",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "●",
+      "score": "0-2",
+      "wins": 30,
+      "losses": 24,
+      "draws": 3,
+      "net_wins": 6
     }
   ]
 }
