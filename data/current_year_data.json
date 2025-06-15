@@ -792,6 +792,19 @@
       "losses": 27,
       "draws": 3,
       "net_wins": 4
+    },
+    {
+      "date": "6/15",
+      "opponent": "ソフトバンク",
+      "location": "みずほPayPay",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "3-4",
+      "wins": 31,
+      "losses": 28,
+      "draws": 3,
+      "net_wins": 3
     }
   ]
 }
