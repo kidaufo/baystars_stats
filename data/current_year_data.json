@@ -805,6 +805,19 @@
       "losses": 28,
       "draws": 3,
       "net_wins": 3
+    },
+    {
+      "date": "6/17",
+      "opponent": "西武",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "0-3",
+      "wins": 31,
+      "losses": 29,
+      "draws": 3,
+      "net_wins": 2
     }
   ]
 }
