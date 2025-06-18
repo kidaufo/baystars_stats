@@ -818,6 +818,19 @@
       "losses": 29,
       "draws": 3,
       "net_wins": 2
+    },
+    {
+      "date": "6/18",
+      "opponent": "西武",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ジャクソン(右)",
+      "result": "○",
+      "score": "4-2",
+      "wins": 32,
+      "losses": 29,
+      "draws": 3,
+      "net_wins": 3
     }
   ]
 }
