@@ -844,6 +844,19 @@
       "losses": 30,
       "draws": 3,
       "net_wins": 2
+    },
+    {
+      "date": "6/20",
+      "opponent": "ロッテ",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "1-6",
+      "wins": 32,
+      "losses": 31,
+      "draws": 3,
+      "net_wins": 1
     }
   ]
 }
