@@ -870,6 +870,19 @@
       "losses": 31,
       "draws": 3,
       "net_wins": 2
+    },
+    {
+      "date": "6/22",
+      "opponent": "ロッテ",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "9-10",
+      "wins": 33,
+      "losses": 32,
+      "draws": 3,
+      "net_wins": 1
     }
   ]
 }
