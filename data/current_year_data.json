@@ -883,6 +883,19 @@
       "losses": 32,
       "draws": 3,
       "net_wins": 1
+    },
+    {
+      "date": "6/27",
+      "opponent": "巨人",
+      "location": "東京ドーム",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "0-4",
+      "wins": 33,
+      "losses": 33,
+      "draws": 3,
+      "net_wins": 0
     }
   ]
 }
