@@ -896,6 +896,19 @@
       "losses": 33,
       "draws": 3,
       "net_wins": 0
+    },
+    {
+      "date": "6/28",
+      "opponent": "巨人",
+      "location": "東京ドーム",
+      "home_away": "V",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "0-5",
+      "wins": 33,
+      "losses": 34,
+      "draws": 3,
+      "net_wins": -1
     }
   ]
 }
