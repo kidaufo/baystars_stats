@@ -935,6 +935,19 @@
       "losses": 35,
       "draws": 3,
       "net_wins": -1
+    },
+    {
+      "date": "7/2",
+      "opponent": "中日",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "石田裕(右)",
+      "result": "○",
+      "score": "4-3",
+      "wins": 35,
+      "losses": 35,
+      "draws": 3,
+      "net_wins": 0
     }
   ]
 }
