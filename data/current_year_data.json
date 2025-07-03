@@ -948,6 +948,19 @@
       "losses": 35,
       "draws": 3,
       "net_wins": 0
+    },
+    {
+      "date": "7/3",
+      "opponent": "中日",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "小園(右)",
+      "result": "○",
+      "score": "8-5",
+      "wins": 36,
+      "losses": 35,
+      "draws": 3,
+      "net_wins": 1
     }
   ]
 }
