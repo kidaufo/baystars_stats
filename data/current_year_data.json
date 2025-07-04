@@ -961,6 +961,19 @@
       "losses": 35,
       "draws": 3,
       "net_wins": 1
+    },
+    {
+      "date": "7/4",
+      "opponent": "阪神",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "1-7",
+      "wins": 36,
+      "losses": 36,
+      "draws": 3,
+      "net_wins": 0
     }
   ]
 }
