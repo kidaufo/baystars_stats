@@ -974,6 +974,19 @@
       "losses": 36,
       "draws": 3,
       "net_wins": 0
+    },
+    {
+      "date": "7/5",
+      "opponent": "阪神",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "大貫(右)",
+      "result": "●",
+      "score": "0-3",
+      "wins": 36,
+      "losses": 37,
+      "draws": 3,
+      "net_wins": -1
     }
   ]
 }
