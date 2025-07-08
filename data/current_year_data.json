@@ -1000,6 +1000,19 @@
       "losses": 38,
       "draws": 3,
       "net_wins": -2
+    },
+    {
+      "date": "7/8",
+      "opponent": "ヤクルト",
+      "location": "神宮",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "4-0",
+      "wins": 37,
+      "losses": 38,
+      "draws": 3,
+      "net_wins": -1
     }
   ]
 }
