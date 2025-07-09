@@ -1013,6 +1013,19 @@
       "losses": 38,
       "draws": 3,
       "net_wins": -1
+    },
+    {
+      "date": "7/9",
+      "opponent": "ヤクルト",
+      "location": "神宮",
+      "home_away": "V",
+      "pitcher": "バウアー(右)",
+      "result": "△",
+      "score": "4-4",
+      "wins": 37,
+      "losses": 38,
+      "draws": 4,
+      "net_wins": -1
     }
   ]
 }
