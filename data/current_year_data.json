@@ -1026,6 +1026,19 @@
       "losses": 38,
       "draws": 4,
       "net_wins": -1
+    },
+    {
+      "date": "7/11",
+      "opponent": "巨人",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "1-2",
+      "wins": 37,
+      "losses": 39,
+      "draws": 4,
+      "net_wins": -2
     }
   ]
 }
