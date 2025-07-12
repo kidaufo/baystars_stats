@@ -1039,6 +1039,19 @@
       "losses": 39,
       "draws": 4,
       "net_wins": -2
+    },
+    {
+      "date": "7/12",
+      "opponent": "巨人",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "大貫(右)",
+      "result": "●",
+      "score": "0-3",
+      "wins": 37,
+      "losses": 40,
+      "draws": 4,
+      "net_wins": -3
     }
   ]
 }
