@@ -1065,6 +1065,19 @@
       "losses": 40,
       "draws": 4,
       "net_wins": -2
+    },
+    {
+      "date": "7/15",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "1-0",
+      "wins": 39,
+      "losses": 40,
+      "draws": 4,
+      "net_wins": -1
     }
   ]
 }
