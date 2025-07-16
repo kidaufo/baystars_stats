@@ -1078,6 +1078,19 @@
       "losses": 40,
       "draws": 4,
       "net_wins": -1
+    },
+    {
+      "date": "7/16",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "3-4",
+      "wins": 39,
+      "losses": 41,
+      "draws": 4,
+      "net_wins": -2
     }
   ]
 }
