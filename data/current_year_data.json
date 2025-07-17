@@ -1091,6 +1091,19 @@
       "losses": 41,
       "draws": 4,
       "net_wins": -2
+    },
+    {
+      "date": "7/17",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "△",
+      "score": "1-1",
+      "wins": 39,
+      "losses": 41,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
