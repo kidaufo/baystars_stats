@@ -1117,6 +1117,19 @@
       "losses": 42,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "7/20",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "大貫(右)",
+      "result": "○",
+      "score": "5-3",
+      "wins": 40,
+      "losses": 42,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
