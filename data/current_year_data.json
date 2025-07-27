@@ -1156,6 +1156,19 @@
       "losses": 43,
       "draws": 5,
       "net_wins": -2
+    },
+    {
+      "date": "7/27",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "1-7",
+      "wins": 41,
+      "losses": 44,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
