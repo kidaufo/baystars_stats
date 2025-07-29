@@ -1169,6 +1169,19 @@
       "losses": 44,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "7/29",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "東(左)",
+      "result": "●",
+      "score": "1-5",
+      "wins": 41,
+      "losses": 45,
+      "draws": 5,
+      "net_wins": -4
     }
   ]
 }
