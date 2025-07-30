@@ -1182,6 +1182,19 @@
       "losses": 45,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "7/30",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "バウアー(右)",
+      "result": "●",
+      "score": "1-2",
+      "wins": 41,
+      "losses": 46,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
