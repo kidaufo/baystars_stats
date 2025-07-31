@@ -1195,6 +1195,19 @@
       "losses": 46,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "7/31",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "平良(右)",
+      "result": "○",
+      "score": "14-1",
+      "wins": 42,
+      "losses": 46,
+      "draws": 5,
+      "net_wins": -4
     }
   ]
 }
