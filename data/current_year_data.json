@@ -1208,6 +1208,19 @@
       "losses": 46,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "8/1",
+      "opponent": "巨人",
+      "location": "東京ドーム",
+      "home_away": "V",
+      "pitcher": "ジャクソン(右)",
+      "result": "○",
+      "score": "7-2",
+      "wins": 43,
+      "losses": 46,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
