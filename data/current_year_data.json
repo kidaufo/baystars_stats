@@ -1234,6 +1234,19 @@
       "losses": 46,
       "draws": 5,
       "net_wins": -2
+    },
+    {
+      "date": "8/3",
+      "opponent": "巨人",
+      "location": "東京ドーム",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "3-4",
+      "wins": 44,
+      "losses": 47,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
