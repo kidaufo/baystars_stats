@@ -1247,6 +1247,19 @@
       "losses": 47,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "8/5",
+      "opponent": "広島",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "バウアー(右)",
+      "result": "○",
+      "score": "5-4",
+      "wins": 45,
+      "losses": 47,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
