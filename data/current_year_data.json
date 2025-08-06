@@ -1260,6 +1260,19 @@
       "losses": 47,
       "draws": 5,
       "net_wins": -2
+    },
+    {
+      "date": "8/6",
+      "opponent": "広島",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "東(左)",
+      "result": "●",
+      "score": "5-8",
+      "wins": 45,
+      "losses": 48,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
