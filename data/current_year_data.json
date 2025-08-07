@@ -1273,6 +1273,19 @@
       "losses": 48,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "8/7",
+      "opponent": "広島",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "吉野(右)",
+      "result": "○",
+      "score": "9-5",
+      "wins": 46,
+      "losses": 48,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
