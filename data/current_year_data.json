@@ -1286,6 +1286,19 @@
       "losses": 48,
       "draws": 5,
       "net_wins": -2
+    },
+    {
+      "date": "8/8",
+      "opponent": "巨人",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ジャクソン(右)",
+      "result": "●",
+      "score": "2-12",
+      "wins": 46,
+      "losses": 49,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
