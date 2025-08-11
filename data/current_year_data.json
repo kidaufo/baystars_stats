@@ -1312,6 +1312,19 @@
       "losses": 50,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "8/11",
+      "opponent": "ヤクルト",
+      "location": "神宮",
+      "home_away": "V",
+      "pitcher": "平良(右)",
+      "result": "●",
+      "score": "4-9",
+      "wins": 46,
+      "losses": 51,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
