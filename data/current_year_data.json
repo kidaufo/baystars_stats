@@ -1325,6 +1325,19 @@
       "losses": 51,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "8/12",
+      "opponent": "ヤクルト",
+      "location": "神宮",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "1-3",
+      "wins": 46,
+      "losses": 52,
+      "draws": 5,
+      "net_wins": -6
     }
   ]
 }
