@@ -1351,6 +1351,19 @@
       "losses": 52,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "8/15",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "ジャクソン(右)",
+      "result": "○",
+      "score": "4-3",
+      "wins": 48,
+      "losses": 52,
+      "draws": 5,
+      "net_wins": -4
     }
   ]
 }
