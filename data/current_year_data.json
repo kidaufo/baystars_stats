@@ -1364,6 +1364,19 @@
       "losses": 52,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "8/16",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "竹田(右)",
+      "result": "○",
+      "score": "6-0",
+      "wins": 49,
+      "losses": 52,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
