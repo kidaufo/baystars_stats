@@ -1377,6 +1377,19 @@
       "losses": 52,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "8/17",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "藤浪(右)",
+      "result": "○",
+      "score": "5-4",
+      "wins": 50,
+      "losses": 52,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
