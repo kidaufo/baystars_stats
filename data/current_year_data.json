@@ -1455,6 +1455,19 @@
       "losses": 56,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "8/24",
+      "opponent": "巨人",
+      "location": "東京ドーム",
+      "home_away": "V",
+      "pitcher": "竹田(右)",
+      "result": "○",
+      "score": "4-2",
+      "wins": 52,
+      "losses": 56,
+      "draws": 5,
+      "net_wins": -4
     }
   ]
 }
