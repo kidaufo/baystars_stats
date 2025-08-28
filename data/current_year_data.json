@@ -1494,6 +1494,19 @@
       "losses": 58,
       "draws": 5,
       "net_wins": -6
+    },
+    {
+      "date": "8/28",
+      "opponent": "阪神",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "森唯(右)",
+      "result": "○",
+      "score": "5-4",
+      "wins": 53,
+      "losses": 58,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
