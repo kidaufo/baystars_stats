@@ -1520,6 +1520,19 @@
       "losses": 59,
       "draws": 5,
       "net_wins": -6
+    },
+    {
+      "date": "8/30",
+      "opponent": "中日",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "7-9",
+      "wins": 53,
+      "losses": 60,
+      "draws": 5,
+      "net_wins": -7
     }
   ]
 }
