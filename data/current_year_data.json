@@ -1533,6 +1533,19 @@
       "losses": 60,
       "draws": 5,
       "net_wins": -7
+    },
+    {
+      "date": "8/31",
+      "opponent": "中日",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "藤浪(右)",
+      "result": "○",
+      "score": "2-0",
+      "wins": 54,
+      "losses": 60,
+      "draws": 5,
+      "net_wins": -6
     }
   ]
 }
