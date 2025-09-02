@@ -1546,6 +1546,19 @@
       "losses": 60,
       "draws": 5,
       "net_wins": -6
+    },
+    {
+      "date": "9/2",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "○",
+      "score": "8-5",
+      "wins": 55,
+      "losses": 60,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
