@@ -1559,6 +1559,19 @@
       "losses": 60,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "9/3",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "●",
+      "score": "1-2",
+      "wins": 55,
+      "losses": 61,
+      "draws": 5,
+      "net_wins": -6
     }
   ]
 }
