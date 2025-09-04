@@ -1572,6 +1572,19 @@
       "losses": 61,
       "draws": 5,
       "net_wins": -6
+    },
+    {
+      "date": "9/4",
+      "opponent": "広島",
+      "location": "マツダスタジアム",
+      "home_away": "V",
+      "pitcher": "平良(右)",
+      "result": "○",
+      "score": "1-0",
+      "wins": 56,
+      "losses": 61,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
