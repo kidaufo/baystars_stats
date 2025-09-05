@@ -1585,6 +1585,19 @@
       "losses": 61,
       "draws": 5,
       "net_wins": -5
+    },
+    {
+      "date": "9/5",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ジャクソン(右)",
+      "result": "○",
+      "score": "7-6",
+      "wins": 57,
+      "losses": 61,
+      "draws": 5,
+      "net_wins": -4
     }
   ]
 }
