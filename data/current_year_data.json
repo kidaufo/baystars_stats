@@ -1598,6 +1598,19 @@
       "losses": 61,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "9/6",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "竹田(右)",
+      "result": "●",
+      "score": "2-3",
+      "wins": 57,
+      "losses": 62,
+      "draws": 5,
+      "net_wins": -5
     }
   ]
 }
