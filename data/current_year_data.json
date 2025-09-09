@@ -1624,6 +1624,19 @@
       "losses": 62,
       "draws": 5,
       "net_wins": -4
+    },
+    {
+      "date": "9/9",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "ケイ(左)",
+      "result": "○",
+      "score": "3-0",
+      "wins": 59,
+      "losses": 62,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
