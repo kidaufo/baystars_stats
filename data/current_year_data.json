@@ -1637,6 +1637,19 @@
       "losses": 62,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "9/10",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "6-1",
+      "wins": 60,
+      "losses": 62,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
