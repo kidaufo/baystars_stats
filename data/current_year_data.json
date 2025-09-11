@@ -1650,6 +1650,19 @@
       "losses": 62,
       "draws": 5,
       "net_wins": -2
+    },
+    {
+      "date": "9/11",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "●",
+      "score": "0-2",
+      "wins": 60,
+      "losses": 63,
+      "draws": 5,
+      "net_wins": -3
     }
   ]
 }
