@@ -1663,6 +1663,19 @@
       "losses": 63,
       "draws": 5,
       "net_wins": -3
+    },
+    {
+      "date": "9/12",
+      "opponent": "ヤクルト",
+      "location": "神宮",
+      "home_away": "V",
+      "pitcher": "ジャクソン(右)",
+      "result": "○",
+      "score": "10-2",
+      "wins": 61,
+      "losses": 63,
+      "draws": 5,
+      "net_wins": -2
     }
   ]
 }
