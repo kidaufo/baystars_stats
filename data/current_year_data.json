@@ -1689,6 +1689,19 @@
       "losses": 63,
       "draws": 5,
       "net_wins": -1
+    },
+    {
+      "date": "9/14",
+      "opponent": "巨人",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "藤浪(右)",
+      "result": "○",
+      "score": "9-7",
+      "wins": 63,
+      "losses": 63,
+      "draws": 5,
+      "net_wins": 0
     }
   ]
 }
