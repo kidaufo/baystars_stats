@@ -1715,6 +1715,19 @@
       "losses": 63,
       "draws": 5,
       "net_wins": 1
+    },
+    {
+      "date": "9/17",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "1-0",
+      "wins": 65,
+      "losses": 63,
+      "draws": 5,
+      "net_wins": 2
     }
   ]
 }
