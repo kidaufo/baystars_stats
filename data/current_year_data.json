@@ -1728,6 +1728,19 @@
       "losses": 63,
       "draws": 5,
       "net_wins": 2
+    },
+    {
+      "date": "9/18",
+      "opponent": "中日",
+      "location": "バンテリンドーム",
+      "home_away": "V",
+      "pitcher": "石田裕(右)",
+      "result": "○",
+      "score": "7-4",
+      "wins": 66,
+      "losses": 63,
+      "draws": 5,
+      "net_wins": 3
     }
   ]
 }
