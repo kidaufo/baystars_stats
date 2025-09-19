@@ -1741,6 +1741,19 @@
       "losses": 63,
       "draws": 5,
       "net_wins": 3
+    },
+    {
+      "date": "9/19",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "ジャクソン(右)",
+      "result": "●",
+      "score": "0-4",
+      "wins": 66,
+      "losses": 64,
+      "draws": 5,
+      "net_wins": 2
     }
   ]
 }
