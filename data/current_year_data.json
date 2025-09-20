@@ -1754,6 +1754,19 @@
       "losses": 64,
       "draws": 5,
       "net_wins": 2
+    },
+    {
+      "date": "9/20",
+      "opponent": "阪神",
+      "location": "甲子園",
+      "home_away": "V",
+      "pitcher": "竹田(右)",
+      "result": "○",
+      "score": "4-1",
+      "wins": 67,
+      "losses": 64,
+      "draws": 5,
+      "net_wins": 3
     }
   ]
 }
