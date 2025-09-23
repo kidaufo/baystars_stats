@@ -1780,6 +1780,19 @@
       "losses": 64,
       "draws": 5,
       "net_wins": 4
+    },
+    {
+      "date": "9/23",
+      "opponent": "阪神",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ケイ(左)",
+      "result": "△",
+      "score": "2-2",
+      "wins": 68,
+      "losses": 64,
+      "draws": 6,
+      "net_wins": 4
     }
   ]
 }
