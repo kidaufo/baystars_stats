@@ -1793,6 +1793,19 @@
       "losses": 64,
       "draws": 6,
       "net_wins": 4
+    },
+    {
+      "date": "9/26",
+      "opponent": "巨人",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "東(左)",
+      "result": "○",
+      "score": "5-4",
+      "wins": 69,
+      "losses": 64,
+      "draws": 6,
+      "net_wins": 5
     }
   ]
 }
