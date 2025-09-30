@@ -1832,6 +1832,19 @@
       "losses": 65,
       "draws": 6,
       "net_wins": 5
+    },
+    {
+      "date": "9/30",
+      "opponent": "ヤクルト",
+      "location": "横浜",
+      "home_away": "H",
+      "pitcher": "ケイ(左)",
+      "result": "●",
+      "score": "4-5",
+      "wins": 70,
+      "losses": 66,
+      "draws": 6,
+      "net_wins": 4
     }
   ]
 }
